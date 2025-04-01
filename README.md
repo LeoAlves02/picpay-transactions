@@ -1,7 +1,7 @@
 
 # Projeto de API de Transações Financeiras (Desafio de Vaga Backend - PicPay)
 
-<img src=".github/1.PNG" alt="Projeto desenvolvido e testado utilizando o Insomnia para validar a API." width="200" height="300"/>
+<img src=".github/1.PNG" alt="Projeto desenvolvido e testado utilizando o Insomnia para validar a API." width="700" height="300"/>
 
 Este projeto é um DESAFIO de vaga para desenvolvedor BACKEND do PicPay. Trata-se de uma API RESTful desenvolvida com Java Spring Boot para simular transações financeiras entre usuários. A API permite a criação de usuários dos tipos lojista e comum, sendo que somente usuários comuns podem realizar transações para outros usuários, enquanto os usuários lojistas apenas podem receber transações. A aplicação inclui um serviço de autorização de transações e um sistema de notificação, proporcionando um fluxo completo de simulação de transações financeiras.
 
@@ -52,7 +52,7 @@ Aqui está a explicação completa sobre como alterar a URL do Mocky no arquivo 
 
 # 🚀 Configuração do Serviço de Autorização com Mocky
 
-<img src=".github/2.PNG" alt="Projeto desenvolvido e testado utilizando o Insomnia para validar a API." width="200" height="300"/>
+<img src=".github/2.PNG" alt="Criar um mock." width="700" height="300"/>
 
 Durante o desenvolvimento, a API utiliza o **Mocky** para simular a autorização de transações. O Mocky permite criar respostas simuladas para testar a integração da API sem depender de um serviço externo real.
 
